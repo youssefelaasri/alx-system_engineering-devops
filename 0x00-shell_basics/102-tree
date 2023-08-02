@@ -1,2 +1,2 @@
 #!/bin/bash
-nkdir welcome/ welcome/to/ welcome/to/school
+nkdir -p welcome/to/school
