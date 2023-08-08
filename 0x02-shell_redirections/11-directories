@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la -d */ | wc
+find . -type d -path './*' -print | wc -l
